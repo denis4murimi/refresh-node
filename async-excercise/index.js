@@ -12,8 +12,9 @@ async function send(id) {
     const customer = await getCustomer(id);
     if (customer.isGold) {
         const topMovies = await getTopMovies();
-        console.log(topMovies);
-        await sendEmail();
+        console.log('Top Movies: ', topMovies);
+        const email = await sendEmail();
+        console.log('Email Sent!');
     }
    } catch (error) {
     console.log('Error: ', error.message);
@@ -43,7 +44,6 @@ function getTopMovies() {
 function sendEmail() {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
-            console.log('Sending Email...');
             resolve(true);
             // reject(new Error('Unknown error occurred when sending email.'));
         }, 3000);
