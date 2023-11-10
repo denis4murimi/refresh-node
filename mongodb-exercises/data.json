@@ -1,0 +1,126 @@
+[
+    {
+        "id": "5fa39399510f121d9c52b7a1",
+        "name": "Web Development Fundamentals",
+        "author": "John Smith",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "date": "2023-01-15T05:11:35.316+00:00",
+        "isPublished": true,
+        "price": 15
+    },
+    {
+        "_id": "5fa393a0510f121d9c52b7a2",
+        "name": "Data Science with Python",
+        "author": "Jane Doe",
+        "tags": [
+            "Python",
+            "Data Science",
+            "Machine Learning"
+        ],
+        "date": "2023-01-16T05:11:35.316+00:00",
+        "isPublished": true,
+        "price": 10
+    },
+    {
+        "_id": "5fa393a6510f121d9c52b7a3",
+        "name": "Digital Marketing Mastery",
+        "author": "Alex Johnson",
+        "tags": [
+            "Digital Marketing",
+            "SEO",
+            "Social Media"
+        ],
+        "date": "2023-01-17T05:11:35.316+00:00",
+        "isPublished": true,
+        "price": 20
+    },
+    {
+        "_id": "5fa393ad510f121d9c52b7a4",
+        "name": "Photography Basics",
+        "author": "Emily Williams",
+        "tags": [
+            "Photography",
+            "Camera Skills"
+        ],
+        "date": "2023-01-18T05:11:35.316+00:00",
+        "isPublished": false,
+        "price": 25
+    },
+    {
+        "_id": "5fa393b3510f121d9c52b7a5",
+        "name": "Introduction to Cybersecurity",
+        "author": "Robert Davis",
+        "tags": [
+            "Cybersecurity",
+            "Network Security"
+        ],
+        "date": "2023-01-19T05:11:35.316+00:00",
+        "isPublished": true,
+        "price": 25
+    },
+    {
+        "_id": "5fa393ba510f121d9c52b7a6",
+        "name": "Graphic Design Essentials",
+        "author": "Sarah Turner",
+        "tags": [
+            "Graphic Design",
+            "Adobe Creative Suite"
+        ],
+        "date": "2023-01-20T05:11:35.316+00:00",
+        "isPublished": true,
+        "price": 10
+    },
+    {
+        "_id": "5fa393c2510f121d9c52b7a7",
+        "name": "Business Finance for Beginners",
+        "author": "Michael Brown",
+        "tags": [
+            "Finance",
+            "Business"
+        ],
+        "date": "2023-01-21T05:11:35.316+00:00",
+        "isPublished": false,
+        "price": 30
+    },
+    {
+        "_id": "5fa393c9510f121d9c52b7a8",
+        "name": "Mobile App Development with Flutter",
+        "author": "Chris Adams",
+        "tags": [
+            "Flutter",
+            "Mobile App Development"
+        ],
+        "date": "2023-01-22T05:11:35.316+00:00",
+        "isPublished": true,
+        "price": 20
+    },
+    {
+        "_id": "5fa393d1510f121d9c52b7a9",
+        "name": "Yoga and Mindfulness",
+        "author": "Jessica Miller",
+        "tags": [
+            "Yoga",
+            "Mindfulness",
+            "Wellness"
+        ],
+        "date": "2023-01-23T05:11:35.316+00:00",
+        "isPublished": true,
+        "price": 15
+    },
+    {
+        "_id": "5fa393d8510f121d9c52b7aa",
+        "name": "Creative Writing Workshop",
+        "author": "David Turner",
+        "tags": [
+            "Creative Writing",
+            "Storytelling"
+        ],
+        "date": "2023-01-2T05:11:35.316+00:00",
+        "isPublished": false,
+        "price": 25
+    }
+]
