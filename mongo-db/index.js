@@ -31,4 +31,16 @@ async function createCourse() {
     console.log(result);
 }
 
-createCourse();
+// get course
+// add filters limit, sort, select
+async function getCourses() {
+    const course = await Course
+        .find()
+        .limit(10)
+        .sort({name: 1})
+        .select({name: 1,tags: 1});
+    console.log(course);
+}
+
+getCourses();
+// createCourse();
